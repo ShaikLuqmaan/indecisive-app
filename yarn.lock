@@ -2757,9 +2757,9 @@ flush-write-stream@^1.0.0:
     readable-stream "^2.3.6"
 
 follow-redirects@^1.0.0:
-  version "1.12.1"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.12.1.tgz#de54a6205311b93d60398ebc01cf7015682312b6"
-  integrity sha512-tmRv0AVuR7ZyouUHLeNSiO6pqulF7dYa3s19c6t+wz9LD69/uSzdMxJ2S91nTI9U3rt/IldxpzMOFejp6f0hjg==
+  version "1.14.8"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.8.tgz#016996fb9a11a100566398b1c6839337d7bfa8fc"
+  integrity sha512-1x0S9UVJHsQprFcEC/qnNzBLcIxsjAV905f/UkQxbclCsoTWlacCNOpQa/anodLl2uaEKFhfWOvM2Qg77+15zA==
 
 for-in@^1.0.2:
   version "1.0.2"
@@ -3782,7 +3782,7 @@ lodash@^4.0.0, lodash@^4.17.15, lodash@~4.17.10:
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.17.tgz#d9018b3acc57a95c9dcf4a45c6b63b877b6c2d45"
   integrity sha512-/B2DjOphAoqi5BX4Gg2oh4UR0Gy/A7xYAMh3aSECEKzwS3eCDEpS0Cals1Ktvxwlal3bBJNc+5W9kNIcADdw5Q==
 
-lodash@^4.17.11, lodash@^4.17.19, lodash@^4.17.4:
+lodash@^4.17.11, lodash@^4.17.4:
   version "4.17.16"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.16.tgz#34fa1571037ea4b35b2726932961eafedad3058e"
   integrity sha512-mzxOTaU4AsJhnIujhngm+OnA6JX4fTI8D5H26wwGd+BJ57bW70oyRwTqo6EFJm1jTZ7hCo7yVzH1vB8TMFd2ww==
